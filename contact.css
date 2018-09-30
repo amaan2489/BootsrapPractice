@@ -2,8 +2,9 @@
     background-color:#ffffff;
     border-color: #cccccc;
     width: 100%;
+    height: 120px;
     text-align: left;
-    font-size: 2em;
+    font-size: 2em; 
     font-family: 'Georgia', Times, Times New Roman, serif;
     margin-left: auto;
     margin-right: auto;
@@ -11,24 +12,14 @@
     
         }
 
-        .copy {
-            font-size: 0.9em;
-            color: darkgrey;
-            text-align: center;
-            position: relative;
-            top: 25px;
-        }
-
-        .grey{
-            color: #666666;
-        }
-
 .neck{
     background-color:#ffffff;
     border-color: #cccccc;
     padding: 1.5em;
-    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     margin-top: -0.5em;
+    width: 960px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    height: 400px;
     text-align: center;
     color: #4aaaa5;
     text-align:left;
@@ -41,9 +32,6 @@
    
    
 }
-
-
-
 
 hr { 
 display: block;
@@ -90,7 +78,7 @@ width: 120px;
 height: 5px;
 color: white;
 position: relative;
-left: 400px;
+left: 225px;
 top:55px;
 
 
@@ -116,18 +104,29 @@ b {
     
  }
 
- .RPG{
-     float: left;
- }
+ .copy {
+    font-size: 0.9em;
+    color: darkgrey;
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
 
- 
-
- .portfolio{
+.grey{
+    color: #666666;
+}
+ .mycontact{
      color: #4aaaa5;
  }
 
- .rutgers{
-     float: left;
+ .colortext{
+     color: darkgrey;
+ }
+
+ .input1 {
+     width: 100%;
+     color: #cccccc;
+     
  }
 
  a {

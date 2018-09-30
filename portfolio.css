@@ -2,7 +2,6 @@
     background-color:#ffffff;
     border-color: #cccccc;
     width: 100%;
-    height: 120px;
     text-align: left;
     font-size: 2em;
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -12,6 +11,11 @@
     
         }
 
+
+        .grey{
+            color: #666666;
+        }
+        
 .neck{
     background-color:#ffffff;
     border-color: #cccccc;
